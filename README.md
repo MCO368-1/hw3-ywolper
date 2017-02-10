@@ -4,11 +4,11 @@ Implement Conway's Game of Life as a console app. See  https://en.wikipedia.org/
 
 Allow the user to select from 5 Oscillator configurations as shown on Wikipedia
 
-1. Blinker (period 2)	Game of life blinker.gif
-1. Toad (period 2)	Game of life toad.gif
-1. Beacon (period 2)	Game of life beacon.gif
-1. Pulsar (period 3)	Game of life pulsar.gif
-1. Pentadecathlon (period 15)	I-Column.gif
+1. Blinker (period 2)
+1. Toad (period 2)	
+1. Beacon (period 2)	
+1. Pulsar (period 3)	
+1. Pentadecathlon (period 15)	
 
 transition from one state to another is a user option to either
 1. automate at a generation per 500 ms
